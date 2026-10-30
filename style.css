@@ -100,3 +100,29 @@ nav a:hover {
     background-color: royalblue;
     color: white;
 }
+
+
+header h1 {
+    font-size: 36px;
+}
+
+button {
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.services div {
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+input, textarea {
+    width: 250px;
+    padding: 10px;
+}
+
+footer {
+    font-size: 14px;
+}
