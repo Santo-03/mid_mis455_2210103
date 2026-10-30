@@ -83,3 +83,20 @@ textarea {
     padding: 8px;
     margin: 5px;
 }
+
+
+nav a {
+    display: inline-block;
+    background-color: darkblue;
+    color: white;
+    padding: 15px 30px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    background-color: royalblue;
+    color: white;
+}
