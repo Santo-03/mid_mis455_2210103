@@ -1,0 +1,46 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+}
+
+Header{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 15px;
+}
+
+nav a:hover{
+    color: blue
+}
+
+.home {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 20px;
+}
+
+img {
+    margin: 10px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: none;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
